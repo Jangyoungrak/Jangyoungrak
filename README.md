@@ -11,8 +11,3 @@
 ### 📚 Currently Learning
 - 인공지능 모델 및 기초 이론
 - 자료구조 및 알고리즘 최적화
-
-### 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Jangyoungrak&theme=radical&margin-w=15" alt="trophy" />
-</p>
