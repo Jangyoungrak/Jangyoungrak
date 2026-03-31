@@ -1,16 +1,18 @@
-## Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**Jangyoungrak/Jangyoungrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 문제 해결을 즐기는 학생 개발자 장영락입니다. 현재 알고리즘과 인공지능(AI) 분야에 깊은 관심을 가지고 공부하고 있습니다.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- 인공지능 모델 및 기초 이론
+- 자료구조 및 알고리즘 최적화
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jangyoungrak&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
